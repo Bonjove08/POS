@@ -1,0 +1,15 @@
+#payment{
+    -fx-background-color: #fff;
+    -fx-border-color: #3b3b3b;
+    -fx-border-radius: 5px;
+    }
+
+#search{
+    -fx-border-color: #fff;
+    -fx-border-radius: 5px;
+}  
+
+#rootPane{ 
+    -fx-border-color: #3b3b3b;
+    -fx-border-radius: 5px;  
+}
